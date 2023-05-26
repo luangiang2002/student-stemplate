@@ -1,4 +1,4 @@
-import React, { forwardRef, useEffect, useState } from 'react'
+import React, {  useEffect, useState } from 'react'
 import Control from './component/Control'
 import ListProduct from './component/ListProduct'
 import Form from './component/Form'
